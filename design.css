@@ -1,0 +1,19 @@
+/* 
+    Document   : design
+    Created on : 06/12/2013, 10:33:29
+    Author     : עידן
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+#chatButton{
+    width: 200px;
+}
+
+header{
+    text-align: center;
+}
+
+table{
+    border: 5px;
+}
